@@ -1,11 +1,15 @@
 body {
-  font-family: "Roboto";
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 100vh;
+  background: linear-gradient(300deg,#ece7e8, #796077);
 }
 
 .main-content {
   text-align: center;
-  box-shadow: 0 0 10px #000;
+  /* padding: 2%; */
+  box-shadow: 0 0 10px #2e2e2e;
+  background-color: #fff;
+  line-height: 200%;
 }
