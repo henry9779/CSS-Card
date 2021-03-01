@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #344953;
+}
+
+.content {
+  background-color: rgb(138, 138, 138);
+  width: 20rem;
+  padding: 2rem;
+  margin: auto;
+  color: white;
+}
